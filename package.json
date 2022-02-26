@@ -1,0 +1,22 @@
+{
+  "name": "friend-book",
+  "version": "1.0.0",
+  "description": "Social Network API",
+  "main": "server.js",
+  "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "watch": "nodemon server.js",
+      "start": "node server.js"
+  },
+  "repository": {},
+  "author": "Jonzee1914",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+      "express": "^4.17.1",
+      "moment": "^2.27.0",
+      "mongoose": "^5.9.23",
+      "nodemon": "^2.0.4"
+  },
+  "devDependencies": {}
+}
