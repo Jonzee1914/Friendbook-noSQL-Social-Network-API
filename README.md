@@ -47,7 +47,7 @@ SOFTWARE.
 ## Preview
 
 Click the gif for a playlist of full video demos of the functionality 
-[![](https://github.com/Jonzee1914/a-great-back-end/blob/main/Friendbook-social-network-api.gif?raw=true)](https://www.youtube.com/playlist?list=PLiycUgMNT9Ibpwk2pLhMFzsbWdVWeDw93) <br />
+[![](https://github.com/Jonzee1914/Friendbook-noSQL-Social-Network-API/blob/main/Friendbook-social-network-api.gif?raw=true)](https://www.youtube.com/playlist?list=PLiycUgMNT9Ibpwk2pLhMFzsbWdVWeDw93) <br />
 
 Or use any of the following links to watch each part
 
